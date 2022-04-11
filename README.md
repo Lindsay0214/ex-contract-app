@@ -16,11 +16,9 @@ npx hardhat help
 
 ### Source
 
-[npm web3modal](https://www.npmjs.com/package/web3modal)
-
-[npm ethers](https://www.npmjs.com/package/ethers) / [ethers docs](https://docs.ethers.io/v5/)
-
-**[Ethers.js Cheat Sheet](https://dev.to/hideckies/ethers-js-cheat-sheet-1h5j)**
+- [npm web3modal](https://www.npmjs.com/package/web3modal)
+- [npm ethers](https://www.npmjs.com/package/ethers) / [ethers docs](https://docs.ethers.io/v5/)
+- [Ethers.js Cheat Sheet](https://dev.to/hideckies/ethers-js-cheat-sheet-1h5j)
 
 ### Install
 
@@ -32,11 +30,9 @@ npm i ethers
 
 ### Remix
 
-[ethers online IDE — remix](https://remix.ethereum.org/?#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js)
-
-\***\*[Remixd: Access your Local Filesystem](https://remix-ide.readthedocs.io/en/latest/remixd.html)\*\***
-
-\***\*[Remixd Tutorial](https://medium.com/@jeffprestes/remixd-tutorial-809c96f5af36)\*\***
+- [ethers online IDE — remix](https://remix.ethereum.org/?#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js)
+- [Remixd: Access your Local Filesystem](https://remix-ide.readthedocs.io/en/latest/remixd.html)
+- [Remixd Tutorial](https://medium.com/@jeffprestes/remixd-tutorial-809c96f5af36)
 
 ```jsx
 npm install -g @remix-project/remixd
@@ -48,10 +44,8 @@ remixd -s $(echo $PWD) --remix-ide https://remix.ethereum.org/
 ### hardhat
 
 區塊鏈的一個框架，可以很快的編譯智能合約跟寫智能合約測試，也有很多好用 plugin
-
-[npm hardhat](https://www.npmjs.com/package/hardhat)
-
-[官網](https://hardhat.org/)
+- [npm hardhat](https://www.npmjs.com/package/hardhat)
+- [官網](https://hardhat.org/)
 
 ```jsx
 npm i --save hardhat
@@ -59,5 +53,5 @@ npm i --save hardhat
 
 ### Progress
 
-progress now `zsh: command not found: remixd`
-Abi not yet
+- progress now `zsh: command not found: remixd`
+- Abi not yet
